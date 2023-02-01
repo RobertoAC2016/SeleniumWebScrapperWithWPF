@@ -1,0 +1,15 @@
+__pycache__
+.vs
+__temp__/*
+.DS_Store
+.vscode
+/resources/*
+!*.gitkeep
+.coverage
+htmlcov/*
+**.key
+env
+.idea
+rac
+bin
+obj
